@@ -17,5 +17,5 @@
 
 <p align="center">🌱 I’m currently working on a REST API boilerplate using GoLang and Echo framework!</p>    
 <p align="center">
-  <a href="https://github.com/asamgx/echo-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asamgx&repo=echo-engine" alt="Latest Project" /></a>
+  <a href="https://github.com/asamgx/echo-engine"><img src="https://github-readme-stats-delta-murex-97.vercel.app/api/pin/?username=asamgx&repo=echo-engine" alt="Latest Project" /></a>
 </p>
